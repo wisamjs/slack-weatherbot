@@ -1,0 +1,14 @@
+{
+  "name": "slack-weatherbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wisam Zaghal <wisamzaghal@gmail.com> (http://wisam.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
